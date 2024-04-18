@@ -1,1 +1,1 @@
-# DPBH-Hackathon
+I participated in the DPBH Flyer Hackathon, which stands for Dark Pattern Buster Hackathon, aimed at detecting fraudulent websites. Here's the code we developed for it. The hackathon consisted of four rounds and was organized by the Indian government. Our team successfully made it through the first three rounds and was among the top five teams invited to the final round at IIT BHU. Unfortunately, we didn't qualify for the fourth and final round.
